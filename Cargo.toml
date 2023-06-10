@@ -1,0 +1,8 @@
+[package]
+name = "pico-gpt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+burn = "0.7.0"
+serde = "1.0.164"
